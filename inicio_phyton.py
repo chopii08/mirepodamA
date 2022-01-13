@@ -11,3 +11,5 @@ print(f"Me alegro de conocerle, {nombre}")
 cantidad = int(input("Digame una cantidad en pesetas:"))
 print(f"{cantidad}pesetas son {round(cantidad/166.386,2)}euros")
 
+
+print("hola")
